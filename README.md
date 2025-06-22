@@ -39,6 +39,6 @@ area and watch the build run.
 
 5. IF it does not then try syncing settings first.
 
-# Instructions on how to run IOTCC
+# Kotlin
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
