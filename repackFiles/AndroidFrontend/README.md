@@ -1,2 +1,2 @@
 # Where this goes
-** this all goes in 'kotlin/org/example/project'
+** this all goes in 'composeApp/src/kotlin/org/example/project'
