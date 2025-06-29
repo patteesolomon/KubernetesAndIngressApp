@@ -42,14 +42,15 @@ USERROUTEID = <your id>`
 
 3. Make a new folder some where else. 
 open the folder you downloaded from mediafire. extract that file into your new folder. Open that project file outside the file base using Android Studio.
+4. WHEN IT ASKS TO DO AN UPGRADE OF ANYTHING OR UPGRADE. Do it NOW. then AFTER you may proceed.
 
-4. Up at the top of Android studio:
-5. Run the sych settings button and if that works.
-6. Run the build. And if that works..
-7. Run the program hitting the play button.
-8. If this stuff doesn't work..
-9. Then use the new Branch and follow those instructions.
-10. Those instructions will be more specifically based on multiplat and config.
+5. Up at the top of Android studio:
+6. Run the sych settings button and if that works.
+7. Run the build. And if that works..
+8. Run the program hitting the play button.
+9. If this stuff doesn't work..
+10. Then use the new Branch and follow those instructions.
+11. Those instructions will be more specifically based on multiplat and config.
    
    # Kotlin
 
