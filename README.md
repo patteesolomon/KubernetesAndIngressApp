@@ -17,7 +17,9 @@
 
   # Instructions on how to Build/Run IOTCC
 
-1. Download the latest Android Studio
+## GOTO THE PREBUILD BRANCH IF YOU DON'T WANT TO DO MORE THAN NECESSARY.
+
+1. Download/Install the latest Android Studio
 here link - > https://developer.android.com/studio
 agree to the terms and just download it. 
 Extract it to the folder you want it to go.
@@ -50,7 +52,7 @@ SO USE THE DEPS I GAVE YOU IF IT DOES NOT WORK
 6. In the .env file set the three values to the values your mongo db values.
 7. Hit the sync tool to run the app.
 8. Hit the hammer tool. If it succeeds then you can run the app.
-   
+
    # Kotlin
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
