@@ -41,8 +41,7 @@ USERROUTEID = <your id>`
 2. GOTO THE GET_OVER_HERE.md and download one of the links for to your compression liking.
 
 3. Make a new folder some where else. 
-open the folder you git pulled into from the 
-file tab in the context menu.
+open the folder you downloaded from mediafire. extract that file into your new folder. Open that project file wihtin the file base at the root of the project folder within Android Studio.
 
 4. Up at the top of Android studio:
 5. Run the sych settings button and if that works.
