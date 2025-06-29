@@ -37,8 +37,14 @@ put each set of files within each of these folders
 in the specific folders they need to goto. (installation script in progress)
 If you still have to do it manually just remember NOT TO PUT THE
 build.gradle.kts files in the root like the others. DONT DRAG AND
-DROP THAT. copy the deps WITHIN THAT and put THEM IN YOUR build.gradle.kts file
-WHERE YOUR DEPENDENCIES ARE BRACED.
+DROP THAT. copy the deps WITHIN THAT and put THEM IN YOUR build.gradle.kts(server)
+file WHERE YOUR DEPENDENCIES ARE BRACED.
+GO INTO ANDROID STUDIO AND COPY THEM OVER.
+THEN RUN SYNC THEY HAVE EVERYTHING YOU NEED IN THEM.
+I CHECKED AND RAN THAT MYSELF..
+SO USE THE DEPS I GAVE YOU IF IT DOES NOT WORK
+
+**Send me a github notif. I'll look at it.
 
 5. Then open the project.
 6. In the .env file set the three values to the values your mongo db values.
