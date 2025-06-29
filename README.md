@@ -29,18 +29,26 @@ it should be a .exe if you're using windows.
 Open Android Studio..
 You may have to install Java dependencies first. 
 You will need Java_11 and greater.
+At THE ROOT OF The "server" folder project..
+IF a .env file does NOT EXIST THERE
+make one.
+and put these values in it..
 
-2. Make a new folder some where else. 
+`KEYPWD = <YOUR KEY>
+USERNAME = <username>
+USERROUTEID = <your id>`
+
+3. Make a new folder some where else. 
 open the folder you git pulled into from the 
 file tab in the context menu.
 
-3. Up at the top of Android studio:
-4. Run the sych settings button and if that works.
-5. Run the build. And if that works..
-6. Run the program hitting the play button.
-7. If this stuff doesn't work..
-8. Then use the new Branch and follow those instructions.
-9. Those instructions will be more specifically based on multiplat and config.
+4. Up at the top of Android studio:
+5. Run the sych settings button and if that works.
+6. Run the build. And if that works..
+7. Run the program hitting the play button.
+8. If this stuff doesn't work..
+9. Then use the new Branch and follow those instructions.
+10. Those instructions will be more specifically based on multiplat and config.
    
    # Kotlin
 
