@@ -38,6 +38,8 @@ and put these values in it..
 USERNAME = <username>
 USERROUTEID = <your id>`
 
+2. GOTO THE GET_OVER_HERE.md and download one of the links for to your compression liking.
+
 3. Make a new folder some where else. 
 open the folder you git pulled into from the 
 file tab in the context menu.
