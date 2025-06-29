@@ -17,7 +17,7 @@
 
   # Instructions on how to Build/Run IOTCC
 
-## GOTO THE PREBUILD BRANCH IF YOU DON'T WANT TO DO MORE THAN NECESSARY.
+## WELCOME TO RAINBOW PREBUILD
 
 1. Download/Install the latest Android Studio
 here link - > https://developer.android.com/studio
@@ -34,25 +34,14 @@ You will need Java_11 and greater.
 open the folder you git pulled into from the 
 file tab in the context menu.
 
-3. Download the repack files from the new branch.
-put each set of files within each of these folders
-in the specific folders they need to goto. (installation script in progress)
-If you still have to do it manually just remember NOT TO PUT THE
-build.gradle.kts files in the root like the others. DONT DRAG AND
-DROP THAT. copy the deps WITHIN THAT and put THEM IN YOUR build.gradle.kts(server)
-file WHERE YOUR DEPENDENCIES ARE BRACED.
-GO INTO ANDROID STUDIO AND COPY THEM OVER.
-THEN RUN SYNC THEY HAVE EVERYTHING YOU NEED IN THEM.
-I CHECKED AND RAN THAT MYSELF..
-SO USE THE DEPS I GAVE YOU IF IT DOES NOT WORK
-
-**Send me a github notif. I'll look at it.
-
-5. Then open the project.
-6. In the .env file set the three values to the values your mongo db values.
-7. Hit the sync tool to run the app.
-8. Hit the hammer tool. If it succeeds then you can run the app.
-
+3. Up at the top of Android studio:
+4. Run the sych settings button and if that works.
+5. Run the build. And if that works..
+6. Run the program hitting the play button.
+7. If this stuff doesn't work..
+8. Then use the new Branch and follow those instructions.
+9. Those instructions will be more specifically based on multiplat and config.
+   
    # Kotlin
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
