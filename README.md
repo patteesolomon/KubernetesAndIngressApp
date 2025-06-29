@@ -35,11 +35,15 @@ file tab in the context menu.
 3. Download the repack files from the new branch.
 put each set of files within each of these folders
 in the specific folders they need to goto. (installation script in progress)
+If you still have to do it manually just remember NOT TO PUT THE
+build.gradle.kts files in the root like the others. DONT DRAG AND
+DROP THAT. copy the deps WITHIN THAT and put THEM IN YOUR build.gradle.kts file
+WHERE YOUR DEPENDENCIES ARE BRACED.
 
-4. Then open the project.
-5. In the .env file set the three values to the values your mongo db values.
-6. Hit the sync tool to run the app.
-7. Hit the hammer tool. If it succeeds then you can run the app.
+5. Then open the project.
+6. In the .env file set the three values to the values your mongo db values.
+7. Hit the sync tool to run the app.
+8. Hit the hammer tool. If it succeeds then you can run the app.
    
    # Kotlin
 
