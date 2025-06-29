@@ -29,7 +29,7 @@ it should be a .exe if you're using windows.
 Open Android Studio..
 You may have to install Java dependencies first. 
 You will need Java_11 and greater.
-At THE ROOT OF The "server" folder project..
+At base folder where `../IOTCC/server/src/main/kotlin/org/example/project/` The "server" folder project..
 IF a .env file does NOT EXIST THERE
 make one.
 and put these values in it..
