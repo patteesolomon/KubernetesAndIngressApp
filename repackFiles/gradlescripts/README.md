@@ -1,3 +1,5 @@
 ** Where all this goes
 
-put this at the root
+GOTO THE PROJECT AND LOAD THE SERVER 
+build.gradle.kts 
+and paste THESE DEPS OVER THE ONES IN THAT.
