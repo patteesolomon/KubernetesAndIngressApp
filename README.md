@@ -17,7 +17,7 @@
 
   # Instructions on how to Build/Run IOTCC
 
-## WELCOME TO RAINBOW PREBUILD
+## WELCOME TO THE PREBUILDS
 
 1. Download/Install the latest Android Studio
 here link - > https://developer.android.com/studio
