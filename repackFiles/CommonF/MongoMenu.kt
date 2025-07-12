@@ -21,7 +21,6 @@ private val gegg: Color
 @Preview
 
 fun MongoMenu() {
-
     Layout({
         Box(Modifier.layoutId("border")) { border() }
         Box(Modifier.layoutId("border")) { border() }
