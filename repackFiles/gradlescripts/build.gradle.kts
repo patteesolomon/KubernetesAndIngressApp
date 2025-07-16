@@ -1,19 +1,29 @@
-// replace your gradle deps with these in your 
-// server build.gradle.kts at the root of the project folder
+plugins {
+    alias(libs.plugins.kotlinJvm)
+    alias(libs.plugins.ktor)
+    application
+}
+
+group = "org.example.project"
+version = "1.0.0"
+application {
+    mainClass.set("org.example.project.ApplicationKt")
+    
+    val isDevelopment: Boolean = project.ext.has("development")
+    applicationDefaultJvmArgs = listOf("-Dio.ktor.development=$isDevelopment")
+}
+var kotlin_version = "2.1.0"
+var KTOR_VER = "3.1.0"
 dependencies {
     implementation(projects.shared)
     implementation(libs.logback)
-    implementation(libs.ktor.serverCore)
-    implementation(libs.ktor.serverNetty)
-    testImplementation(libs.ktor.serverTestHost)
-    testImplementation(libs.kotlin.testJunit)
-    implementation(projects.shared)
-    implementation(libs.logback)
-    implementation("io.ktor:ktor-server-core:3.1.2")
-    implementation("io.ktor:ktor-server-netty:3.1.2")
-    implementation("org.mongodb:mongodb-driver-sync:4.4.3")
-    implementation("androidx.core:core-ktx:1.3.2")
-    implementation("org.mongodb:mongodb-driver-sync:5.5.1")
+    implementation("org.jetbrains.kotlin:kotlin-stdlib:${kotlin_version}")
+    implementation(libs.kotlinx.serialization.core)
+    implementation(libs.identity.jvm)
+    implementation(libs.ktor.server.netty)
+    implementation(libs.ktor.serverCoreJVM)
+    implementation(libs.ktor.server.core)
+    implementation(libs.ktor.serverNettyJVM)
     testImplementation(libs.ktor.serverTestHost)
     testImplementation(libs.kotlin.testJunit)
 }
