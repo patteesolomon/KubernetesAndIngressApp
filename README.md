@@ -1,5 +1,5 @@
 # GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
-(https://github.com/patteesolomon/IOTCC) <--------------
+----------->(https://github.com/patteesolomon/IOTCC) <--------------
 
 This is a Kotlin Multiplatform project targeting Android, iOS, Server.
 
