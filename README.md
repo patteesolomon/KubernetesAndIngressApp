@@ -1,3 +1,6 @@
+# GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
+(https://github.com/patteesolomon/IOTCC)
+
 This is a Kotlin Multiplatform project targeting Android, iOS, Server.
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
@@ -39,5 +42,4 @@ area and watch the build run.
 
 5. IF it does not then try syncing settings first.
 
-# GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
-(https://github.com/patteesolomon/IOTCC)
+
