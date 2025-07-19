@@ -39,6 +39,5 @@ area and watch the build run.
 
 5. IF it does not then try syncing settings first.
 
-# Kotlin
-
-Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+[# GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
+(https://github.com/patteesolomon/IOTCC)
