@@ -39,5 +39,5 @@ area and watch the build run.
 
 5. IF it does not then try syncing settings first.
 
-[# GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
+# GOTO THIS REPO FOR THE ACTUAL MOST UPDATED BUILD
 (https://github.com/patteesolomon/IOTCC)
